@@ -1,0 +1,21 @@
+body{
+    background-color: #B3B3B3;
+}
+button {
+    margin: 16px 12px 0px 35px;
+    padding: 6px 8px;
+}
+ul{
+    display: flex;
+    list-style: none;
+}
+
+li {
+    margin: 8px 12px 8px 28px;
+}
+
+#mode{
+    position: absolute;
+    right: 23px;
+    cursor: pointer;
+}
